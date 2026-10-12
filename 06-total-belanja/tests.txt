@@ -1,0 +1,13 @@
+# Test 0 (sample)
+INPUT:
+4
+12000 5000 3000 10000
+OUTPUT:
+30000
+
+# Test 1 (edge case)
+INPUT:
+1
+0
+OUTPUT:
+0

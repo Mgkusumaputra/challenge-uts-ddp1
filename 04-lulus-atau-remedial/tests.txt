@@ -1,0 +1,11 @@
+# Test 0 (sample)
+INPUT:
+60
+OUTPUT:
+LULUS
+
+# Test 1 (edge case)
+INPUT:
+59
+OUTPUT:
+REMEDIAL

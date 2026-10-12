@@ -1,0 +1,16 @@
+# Test 0 (sample)
+INPUT:
+3
+DDP satu
+
+belajar Python bersama
+OUTPUT:
+5
+
+# Test 1 (edge case)
+INPUT:
+2
+hello world
+python
+OUTPUT:
+3

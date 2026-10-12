@@ -1,0 +1,11 @@
+# Test 0 (sample)
+INPUT:
+Python itu seru, belajar Python!
+OUTPUT:
+belajar
+
+# Test 1 (edge case)
+INPUT:
+Ayo coding!!!
+OUTPUT:
+coding

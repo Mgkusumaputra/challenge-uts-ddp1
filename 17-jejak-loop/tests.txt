@@ -1,0 +1,17 @@
+# Test 0 (sample)
+INPUT:
+4
+2 7 0 -3
+OUTPUT:
+GENAP
+GANJIL
+GENAP
+GANJIL
+
+# Test 1 (edge case)
+INPUT:
+2
+-2 -1
+OUTPUT:
+GENAP
+GANJIL

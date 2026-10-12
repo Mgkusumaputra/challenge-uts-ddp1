@@ -1,0 +1,13 @@
+# Test 0 (sample)
+INPUT:
+6
+100 25 abc -10 5 2.5
+OUTPUT:
+130
+
+# Test 1 (edge case)
+INPUT:
+4
+10 -1 nope 3
+OUTPUT:
+13

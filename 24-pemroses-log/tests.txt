@@ -1,0 +1,17 @@
+# Test 0 (sample)
+INPUT:
+4
+api OK 12
+db FAIL 20
+web OK 8
+cache OK 5
+OUTPUT:
+3 25
+
+# Test 1 (edge case)
+INPUT:
+2
+x FAIL 9
+y OK 0
+OUTPUT:
+1 0

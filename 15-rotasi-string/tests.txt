@@ -1,0 +1,13 @@
+# Test 0 (sample)
+INPUT:
+HACKERRANK
+3
+OUTPUT:
+KERRANKHAC
+
+# Test 1 (edge case)
+INPUT:
+abcde
+7
+OUTPUT:
+cdeab

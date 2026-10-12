@@ -1,0 +1,11 @@
+# Test 0 (sample)
+INPUT:
+13
+OUTPUT:
+1101
+
+# Test 1 (edge case)
+INPUT:
+0
+OUTPUT:
+0

@@ -1,0 +1,11 @@
+# Test 0 (sample)
+INPUT:
+KasurRusak
+OUTPUT:
+YA
+
+# Test 1 (edge case)
+INPUT:
+Python
+OUTPUT:
+TIDAK

@@ -1,0 +1,11 @@
+# Test 0 (sample)
+INPUT:
+DDP itu seru!
+OUTPUT:
+4
+
+# Test 1 (edge case)
+INPUT:
+PYTHON
+OUTPUT:
+1
